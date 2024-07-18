@@ -5,7 +5,7 @@ from setuptools import find_packages, setup
 long_description = (Path(__file__).parent / "README.md").read_text()
 
 core_requirements = [
-    "gymnasium==0.29.1",
+    # "gymnasium==0.29.1",
     "rich==13.7.1",
     "tqdm==4.66.4",
     "ipdb==0.13.13",
