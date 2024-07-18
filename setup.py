@@ -12,10 +12,10 @@ core_requirements = [
     # "mujoco==3.1.6",
     # "mujoco-mjx==3.1.6",
     # "dm_control==1.0.20",
-    # "imageio==2.34.2",
-    # "gymnax==0.0.6",
     # "brax==0.9.4",
-    # "torch==2.3.1",
+    "imageio==2.34.2",
+    "gymnax==0.0.6",
+    "torch==2.3.1",
     "opencv-python==4.10.0.84",
 ]
 
