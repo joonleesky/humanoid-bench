@@ -99,7 +99,7 @@ TASKS = {
 
 class HumanoidEnv(MujocoEnv, gym.utils.EzPickle):
     metadata = {
-        "render_modes": ["human", "rgb_array", "depth_array"],
+        "render_modes": ["human", "rgb_array", "depth_array", "rgbd_tuple"],
         "render_fps": 50,
     }
 
