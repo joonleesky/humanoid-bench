@@ -1,2 +1,2 @@
 include README.md
-recursive-include humanoid_bench *.xml *.json *.yaml *.txt *.cfg *.py *.stl *.STL
+recursive-include humanoid_bench *.xml *.json *.yaml *.txt *.cfg *.py *.stl *.STL *.png *.jpg
